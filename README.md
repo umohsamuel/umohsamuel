@@ -31,8 +31,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umohsamuel&show_icons=true&locale=en&layout=compact" alt="umohsamuel" /></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umohsamuel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umohsamuel&" alt="umohsamuel" /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umohsamuel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
