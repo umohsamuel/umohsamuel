@@ -1,4 +1,3 @@
-![logo](https://github.com/umohsamuel/umohsamuel/blob/main/wp9641787-front-end-developer-wallpapers2.jpg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
