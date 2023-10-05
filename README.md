@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **OAU Hostel Management System**
 
-- 🌱 I’m currently learning **Backend Development with Node.js & UI/UX Design**
+- 🌱 I’m currently learning **DSA with C++ & Backend Development with Node.js**
 
 - 💬 Ask me about **React, Typescript, Tailwind**
 
