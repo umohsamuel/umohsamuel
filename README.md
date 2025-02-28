@@ -6,20 +6,12 @@
 </h1>
 
 
-- 💬 Ask me about **Next.js, Typescript, Rust**
 
-- 📫 How to reach me **<a href="mailto:umohsg@gmail.com"></a>umohsg@gmail.com**
-
+How to reach me? **<a href="mailto:umohsg@gmail.com"></a>umohsg@gmail.com**
 
 
-<div>
+
+
+
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=umohsamuel&show_icons=true&locale=en&layout=compact" alt="umohsamuel" /></p>
 
-
-
-
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umohsamuel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
