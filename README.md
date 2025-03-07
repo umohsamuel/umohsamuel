@@ -5,6 +5,9 @@
   </a>
 </h1>
 
+<p>I'm just here to build cool stuffs man</p>
+<p>frontend (next/react/ts/tailwind) | backend noob (node & express | rust & axum) | polkadot | ink!</p>
+
 
 
 How to reach me? **<a href="mailto:umohsg@gmail.com"></a>umohsg@gmail.com**
