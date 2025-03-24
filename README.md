@@ -6,7 +6,7 @@
 </h1>
 
 <p>I'm just here to build cool stuffs man</p>
-<p>frontend (next/react/ts/tailwind) | backend noob (node & express | rust & axum) | polkadot | ink!</p>
+<p>frontend (next/react/ts/tailwind) | backend noob (node & express | rust & axum) | blockchain</p>
 
 
 
