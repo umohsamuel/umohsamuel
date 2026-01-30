@@ -1,12 +1,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+bigSam;I'm+a+Software+Engineer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Truly+Humble+Under+God&center=true&size=30">
   </a>
 </h1>
 
-<p>I'm just here to build cool stuffs man</p>
-<p>frontend (next/react/ts/tailwind) | backend noob (node & express | rust & axum) | blockchain</p>
+<p>here to build cool stuffs(i hope)</p>
+<p>frontend god {next, react, ts, js, tailwind, motion, gsap, anything atp} | backend intermediate {node, express, golang(calm down for me)} | handsome | lots more</p>
 
 
 
@@ -15,6 +15,4 @@ How to reach me? **<a href="mailto:umohsg@gmail.com"></a>umohsg@gmail.com**
 
 
 
-
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=umohsamuel&show_icons=true&locale=en&layout=compact" alt="umohsamuel" /></p>
 
