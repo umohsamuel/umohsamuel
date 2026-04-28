@@ -6,7 +6,7 @@
 </h1>
 
 <p>here to build cool stuffs(i hope)</p>
-<p>frontend god {next, react, ts, js, tailwind, motion, gsap, anything atp} | backend intermediate {node, express, golang(calm down for me)} | handsome | lots more</p>
+<p>frontend god {next, react, ts, js, tailwind, motion, gsap, anything atp} | backend {node, express, golang, gin} | handsome | funny | lots more</p>
 
 
 
