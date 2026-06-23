@@ -6,7 +6,7 @@
 </h1>
 
 <p>here to build cool stuffs(i hope)</p>
-<p>frontend god {next, react, vue, ts, js, tailwind, motion, gsap, three, anything atp} | backend {node, express, golang, gin} | handsome | funny | lots more</p>
+<p>frontend god {next, react, vue, ts, js, tailwind, motion, gsap, three, anything atp} | backend lover {golang, gin, node, express} | handsome | funny | lots more</p>
 
 
 
