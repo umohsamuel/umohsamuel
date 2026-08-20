@@ -5,13 +5,16 @@
   </a>
 </h1>
 
-<p>here to build cool stuffs(i hope)</p>
-<p>frontend god {next, react, vue, ts, js, tailwind, motion, gsap, three, anything atp} | backend lover {golang, gin, node, express} | handsome | funny | lots more</p>
+<p>here to build cool stuff (i hope)</p>
+<p>frontend god {next, react, vue, ts, js, tailwind, motion, gsap, three} | backend lover {golang, gin, node, express} | cloud & network enthusiast | handsome | funny | lots more</p>
 
 
 
-How to reach me? **<a href="mailto:umohsg@gmail.com"></a>umohsg@gmail.com**
+how to reach me? **[umohsg@gmail.com](mailto:umohsg@gmail.com)**
+portfolio? **[umohsg.com](https://www.umohsg.com/)**
+technical writing? **[umohsg.com/blog](https://www.umohsg.com/blog)**
 
+hopefully you don't need my home address as well?
 
 
 
