@@ -10,11 +10,12 @@
 
 
 
-how to reach me? **[umohsg@gmail.com](mailto:umohsg@gmail.com)**
-portfolio? **[umohsg.com](https://www.umohsg.com/)**
-technical writing? **[umohsg.com/blog](https://www.umohsg.com/blog)**
+reach me @ **[umohsg@gmail.com](mailto:umohsg@gmail.com)**
+portfolio @ **[umohsg.com](https://www.umohsg.com/)**
+writings @ **[umohsg.com/blog](https://www.umohsg.com/blog)**
+experiments @ **[umohsg.com/lab](https://www.umohsg.com/lab)**
 
-hopefully you don't need my home address as well?
+
 
 
 
